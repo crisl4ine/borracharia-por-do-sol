@@ -2,7 +2,7 @@
  
 
  
- <img src="./lavajatopordosol" alt="interface-app"> 
+ <img src="./lavajatopordosol.png" alt="interface-app"> 
 
 >Resultado da Landing Page Borracharia Por do Sol
 
@@ -26,7 +26,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./avatar.jpeg" width="150px;" alt="Foto da Crislaine"/><br>
+        <img src="./avatar.jpg" width="150px;" alt="Foto da Crislaine"/><br>
         <sub>
           <b>Crislaine Siqueira</b>
         </sub>
